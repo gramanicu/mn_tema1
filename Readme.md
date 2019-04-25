@@ -1,4 +1,4 @@
-# Tema MN #1 - __K-MEANS__
+# NM Homework #1 - __K-MEANS__
 
 This is the first homework for the numerical method class. The task was to implement a 'K-Means' algorithm, along with some auxiliary functions.
 
